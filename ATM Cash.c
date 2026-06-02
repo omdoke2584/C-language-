@@ -1,3 +1,6 @@
+Name- Om Amol Doke 
+PRN -2503033111372L001
+
 #include<stdio.h>
   int main(){
   	int amount ,thousand,fivehundred,hundred,fifty,ten,balance;
