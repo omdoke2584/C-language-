@@ -1,5 +1,6 @@
-Name- Om Amol Doke 
-PRN -2503033111372L001
+
+//Name- Om Amol Doke 
+//PRN -2503033111372L001
 
 #include<stdio.h>
 int main()
