@@ -23,12 +23,7 @@ int main()
 	total=english+chemistry+physics+biology+maths;
 	
 	printf ("total is %f",total);
-	
-	
-	
-	
-	
-	
+		
 }
 
 
